@@ -7,7 +7,7 @@ class Person
     @name = name
   end
 
-  def self.bank_account
+  def bank_account
     @@bank_account
   end
 end
